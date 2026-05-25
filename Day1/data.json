@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "total_records": 6,
+    "source": "hr_database",
+    "timestamp": "2026-05-24T10:33:01Z"
+  },
+  "users": [
+    {
+      "id": "U001",
+      "name": "Alice Chen",
+      "age": 25,
+      "email": "alice.c@example.com",
+      "is_active": true,
+      "skills": ["Python", "QA"],
+      "address": {
+        "city": "Taipei",
+        "zip": "100"
+      }
+    },
+    {
+      "id": "U002",
+      "name": "Bob Lin",
+      "age": 19,
+      "email": "bob.l@example.com",
+      "is_active": true,
+      "skills": ["JavaScript", "HTML"],
+      "address": {
+        "city": "Taichung",
+        "zip": "400"
+      }
+    },
+    {
+      "id": "U003",
+      "name": "Charlie Wang",
+      "age": 32,
+      "email": "charlie.w@example.com",
+      "is_active": false,
+      "skills": ["Java", "Docker", "AWS"],
+      "address": {
+        "city": "Kaohsiung",
+        "zip": "800"
+      }
+    },
+    {
+      "id": "U004",
+      "name": "Diana Wu",
+      "age": 20,
+      "email": "diana.w@example.com",
+      "is_active": true,
+      "skills": ["Figma", "UI/UX"],
+      "address": {
+        "city": "Taipei",
+        "zip": "104"
+      }
+    },
+    {
+      "id": "U005",
+      "name": "Ethan Yang",
+      "age": 28,
+      "email": "ethan.y@example.com",
+      "is_active": true,
+      "skills": ["React", "TypeScript", "PostgreSQL"],
+      "address": {
+        "city": "Hsinchu",
+        "zip": "300"
+      }
+    },
+    {
+      "id": "U006",
+      "name": "Fiona Liu",
+      "age": 18,
+      "email": "fiona.l@example.com",
+      "is_active": false,
+      "skills": ["Manual Testing"],
+      "address": {
+        "city": "Taoyuan",
+        "zip": "320"
+      }
+    }
+  ]
+}
